@@ -1,4 +1,4 @@
-# emubaraktoken
+# emubarak token
 emubarak token
 
 https://etherscan.io/token/0x07f74c8480ccfee0d4f803e9bdde8383748b40de
