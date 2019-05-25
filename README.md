@@ -8,6 +8,7 @@ Symbol : EMBR
 Supply : 12,000,000 Token
 
 Link website : https://www.emubarak.net
+white paper : https://www.emubarak.net/EMUBARAK%20WHITEPAPER.pdf
 
 We are currently in the period when different companies are starting to use the blockchain technology to enable them give superior products and services than their competitors.  Providing un-matched services would always give companies an edge above the rest.
 
